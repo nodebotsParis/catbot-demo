@@ -1,0 +1,17 @@
+{
+  "name": "catbotdemo",
+  "description": "catbotDemo a Johnny-Five project",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "GIT",
+    "url": "https://github.com/nodebotsParis/catbot-demo.git"
+  },
+  "dependencies": {
+    "johnny-five": "^0.8.85",
+    "node-static": "^0.7.7"
+  }
+}
